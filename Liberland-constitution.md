@@ -27,7 +27,7 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 - **§12.** The powers of the Assembly shall be restricted to the following only:
   - **§12(1)** to protect the rights of the people to their persons and property;
   - **§12(2)** to conduct the financial affairs of the Public Administration;
-  - **§12(3)** to lay and collect taxes other than personal income tax and/or corporate income tax, subject to the requirement of the mandatory referendum as provided in §15, for one or more of the following purposes only:
+  - **§12(3)** to lay and collect voluntary taxes other than personal income tax and/or corporate income tax, subject to the requirement of the mandatory referendum as provided in §15, for one or more of the following purposes only:
     - **§12(3)(a)** providing for the common defense;
     - **§12(3)(b)** covering the expenses of the Public Administration;
     - **§12(3)(c)** maintaining the internal security;
